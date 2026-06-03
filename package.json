@@ -1,0 +1,11 @@
+{
+  "name": "sonic-svm-interop-bridge",
+  "version": "1.0.0",
+  "description": "Cross-grid interoperability relayer engine for Sonic SVM and Solana",
+  "main": "interopRelayer.js",
+  "dependencies": {
+    "@solana/web3.js": "^1.91.0",
+    "bs58": "^6.0.0",
+    "dotenv": "^16.4.5"
+  }
+}
